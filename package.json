@@ -1,0 +1,10 @@
+{
+  "name": "cartforge",
+  "version": "1.0.0",
+  "description": "CartForge Jenkins CI Project",
+  "main": "app.js",
+  "scripts": {
+    "build": "echo Build Successful",
+    "test": "node test.js"
+  }
+}
